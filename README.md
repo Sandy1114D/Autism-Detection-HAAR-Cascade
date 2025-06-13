@@ -50,7 +50,7 @@ python Autism.py
 The webcam will activate and begin detecting faces in real time.
 
 ## 🧪 Sample Output
-![Sample Output](images/sample_output.jpg)  
+![Sample Output](https://github.com/Sandy1114D/Autism-Detection-HAAR-Cascade/blob/main/Autism.png)  
 *(Replace this with your actual screenshot if available)*
 
 ## 🎯 Future Improvements
